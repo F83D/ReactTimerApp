@@ -29,9 +29,6 @@ var Navigation = React.createClass({
                             Créée par <a href='http://www.acoustat.fr' target='_blank'>F83D</a>
                         </li>
                     </ul>
-                    {/*<p className='menu-text'>
-                        Créée par <a href='http://www.acoustat.fr' target='_blank'>F83D</a>
-                    </p>*/}
                 </div>
             </div>
         );
