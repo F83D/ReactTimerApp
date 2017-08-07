@@ -3,13 +3,21 @@
     background-color: $navBackground;
 }
 
-.menu-text 
+.top-bar
 {
-    color: $menuText;
-}
+    .menu-text 
+    {
+        color: $menuText;
+    }
 
-.menu li a
-{
-    display: inline;
-    padding: 0;
+    .menu li a
+    {
+        display: inline;
+        padding: 0;
+    }
+
+    .active-link
+    {
+        font-weight: bold;
+    }
 }
